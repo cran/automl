@@ -1,0 +1,9 @@
+476e3fb31fdb6ec34f33b5a37cafde76 *DESCRIPTION
+4558983fdbd58cb37301b88461f2daac *NAMESPACE
+0812fe0129c14f15f08ab64a55b5ac0e *R/automl.R
+76ad32f72e8eef49c8db280b78652454 *man/automl_predict.Rd
+fc1eeebda87c7e31026fadb00f669651 *man/automl_train.Rd
+45668f0c3da58d78a8296a8b40c81d59 *man/automl_train_manual.Rd
+2081df6832050ececd4e294ad7fb5680 *man/autopar.Rd
+9f066d8a6c93ebe98a3ceefbcae3846d *man/hpar.Rd
+24d0b44f6fc0f1ef78701b1077eac292 *man/pso.Rd
