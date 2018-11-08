@@ -1,7 +1,7 @@
 Package: automl
 Type: Package
 Title: Deep Learning with Metaheuristic
-Version: 1.0.6
+Version: 1.0.8
 Author: Alex Boulangé <aboul@free.fr>
 Maintainer: Alex Boulangé <alex@socialintelligence.fr>
 Description: Fits from simple regression to highly customizable deep neural networks 
@@ -16,6 +16,6 @@ Imports: stats, utils, parallel
 Suggests: datasets
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-10-21 09:50:12 UTC; aboul
+Packaged: 2018-11-08 08:36:39 UTC; aboul
 Repository: CRAN
-Date/Publication: 2018-10-21 10:00:03 UTC
+Date/Publication: 2018-11-08 08:50:04 UTC
