@@ -1,3 +1,27 @@
+automl 1.2.0
+============================================
+* New param 'mdlref' for automl_train_manual:
+  to start training from saved model (shape,
+  weights...) for fine tuning
+* New param 'mdlref' for automl_train:
+  to start training with loaded hpar and autopar
+  (not the model)
+* New 'auto_runtype' autopar for automl_train
+  to run automatically the 2 steps below;
+  1: overfitting, goal: performance
+  2: regularization, goal: generalization
+* dropout bug fix
+* lambda bug fix
+
+automl 1.1.0
+============================================
+* same train/test sampling for each particle with automl_train
+* stick to a format in variables naming
+
+automl 1.0.9
+============================================
+* testcvsize = 0 bug fix
+
 automl 1.0.8
 ============================================
 * New automatic hyperparameters adjustments below:
