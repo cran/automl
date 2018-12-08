@@ -1,3 +1,32 @@
+automl 1.2.6
+============================================
+* just a proper Authors@R field 4 CRAN :-)
+
+automl 1.2.5
+============================================
+* automl_train bug fix when particle produces
+  no exploitable model (continued work)
+
+automl 1.2.4
+============================================
+* automl_train bug fix when particle produces
+  no exploitable model
+
+automl 1.2.3
+============================================
+* dropout bug fix (now random at each mini
+  batch and reproductible)
+* bug fix: continue training on auto trained model
+  with manual function
+
+automl 1.2.2
+============================================
+* pkgdown site with vignettes (Rmd file added)
+
+automl 1.2.1
+============================================
+* pkgdown site (nb: Rnw vignettes are not included)
+
 automl 1.2.0
 ============================================
 * New param 'mdlref' for automl_train_manual:
